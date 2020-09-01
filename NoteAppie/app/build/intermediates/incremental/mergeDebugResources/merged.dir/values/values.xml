@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="app_name">NoteAppie</string>
+    <string name="delete_menu_noteedit">Verwijder</string>
+    <string name="edit_note">Bewerk Notitie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_delete">Verwijder Item</string>
+    <string name="no_title">Geen Titel</string>
+    <string name="save_menu_noteedit">Opslaan</string>
+    <string name="title">Titel : </string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
